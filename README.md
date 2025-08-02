@@ -1,10 +1,15 @@
 # 👋 Olá, eu sou o Breno Marques!  
-💻 **Desenvolvedor Front-End** | 🚀 Apaixonado por Tecnologia  
+💻 **Desenvolvedor Front-End** com conhecimentos Full Stack | 🚀 Apaixonado por Tecnologia  
 
-Atualmente, estou cursando **Engenharia de Software** na **Unisa** e sempre buscando aprimorar meus conhecimentos. Tenho experiência com **HTML, CSS e JavaScript**, e estou constantemente explorando novas tecnologias para criar soluções inovadoras.  
+Atualmente, estou cursando **Engenharia de Software** na **Unisa** e estou sempre em busca de aprimorar meus conhecimentos.  
+Tenho experiência com **HTML, CSS e JavaScript**, além de trabalhar com tecnologias Back-End como **Node.js, Prisma e MongoDB**.  
+Estou constantemente explorando novas ferramentas para criar soluções modernas, eficientes e inovadoras.
 
 # 💡 Transformando ideias em código
-Sou um desenvolvedor **Front-End** apaixonado por criar interfaces intuitivas e responsivas. Busco sempre inovar e melhorar minhas habilidades para entregar experiências incríveis aos usuários.
+Sou um desenvolvedor **Front-End** apaixonado por criar interfaces intuitivas e responsivas.  
+Também tenho familiaridade com o desenvolvimento Back-End, o que me permite colaborar em todas as etapas de um projeto.  
+Busco sempre inovar e aprimorar minhas habilidades para entregar experiências incríveis aos usuários.
+
 
 📩 **Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenomarsolive)  
